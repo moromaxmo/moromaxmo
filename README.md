@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **itsomarahmed@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vjgKQD-GuSyI2B8TeL9MGwW2kstehFAC/view?usp=sharing](https://drive.google.com/file/d/1vjgKQD-GuSyI2B8TeL9MGwW2kstehFAC/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1H72iW1_XrpbkWQmanJioOlE2LEtVrAgV/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
