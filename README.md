@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/moromaxmo" target="blank"><img src="https://img.shields.io/twitter/follow/moromaxmo?logo=twitter&style=for-the-badge" alt="moromaxmo" /></a> </p>
 
-- 🔭 I’m currently working on **Hygieia**
+- 🔭 I was working on **Hygieia** && **Tuba.ai**
 
-- 💬 Ask me about **Quarkus, Selenium, Java EE**
+- 💬 Ask me about **Quarkus, Selenium, Java EE, JMeter, JUnit**
 
 - 📫 How to reach me **itsomarahmed@gmail.com**
 
