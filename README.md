@@ -12,7 +12,7 @@
 - ⚙️ Experienced with **CI/CD pipelines** and **cloud platforms**: Jenkins, Git, GCP.  
 - 💬 Ask me about **Automation Testing, CI/CD, QA Frameworks, and Backend Services Validation**.  
 - 📫 How to reach me: **itsomarahmed@gmail.com**  
-- 📄 [My Resume](https://drive.google.com/file/d/1H72iW1_XrpbkWQmanJioOlE2LEtVrAgV/view?usp=sharing)  
+- 📄 [My Resume](https://drive.google.com/file/d/16Fs55WRQIEv15Rj3AitAYSAlRQ14DfSB/view?usp=sharing)  
 
 ---
 
